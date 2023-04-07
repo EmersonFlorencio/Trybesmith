@@ -1,10 +1,25 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Trybesmith!🏰️
+
+## Descrição do Projeto.
+
+Projeto realizado no modulo de back-end para praticar o uso do Typescript.
+
+---
+
+## Minha experiencia em desenvolver o projeto.
+
+Projeto bastente legal e muito divertido, sendo a primeira vez usando o Typescript foi um pouco dificil entender e utilizar os tipos e interfaces, sendo que estava acostumado a JS, mas com o passar do tempo, estou gostando muito do typescript, da forma que ele facilita e ajuda na implementação de algumas coisas.
+
+---
+
+## Arquivos desenvolvidor por mim.
+
+* Controllers 
+* Services
+* Models
+* Interfaces
+* Routers
+
+---
+
+<strong>Desenvolvido por Emerson Florencio</strong>
